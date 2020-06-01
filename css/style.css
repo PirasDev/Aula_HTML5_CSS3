@@ -1,0 +1,34 @@
+body{
+         background: palegoldenrod;
+         margin-right: 200px;
+         margin-left: 200px;
+}
+
+header{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.img_padrao{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 300px;
+}
+
+h1{
+    color:purple;
+    font-family: fantasy;
+}
+
+h2{
+    color:green;
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;    
+}
+footer{
+    margin-bottom: 100px;
+}
+
